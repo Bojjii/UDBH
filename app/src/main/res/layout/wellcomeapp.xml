@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="30dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:src="@drawable/welcome"
+        android:layout_marginTop="50dp"
+        android:id="@+id/imgAndroid"
+        />
+
+    <TextView
+        android:id="@+id/txtLockScreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/bungee"
+        android:text="App Lồn"
+        android:textSize="27dp" />
+
+    <TextView
+        android:id="@+id/txtLockScreen2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/poppins_semibold"
+        android:text="Địt mẹ app lồn"
+        android:textSize="22sp" />
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/aqua"
+        android:layout_marginTop="10dp"
+        android:id="@+id/pgbLoad"
+        />
+</LinearLayout>

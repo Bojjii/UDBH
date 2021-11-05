@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/activity_capnhapthuonghieu.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/activity_capnhatsanpham.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/activity_chitietcapnhat.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/activity_chitietthuonghieu.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/activity_themsanpham.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/activity_themthuonghieu.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/admin_qldh.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/chitietdonhang.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/chitietsanpham.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/cthoadon_admin.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/dangnhapvadangky.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/danhsachyeuthichtrong.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/donmua.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/favorite.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/formttcn.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragment_adminchoxacnhan.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragment_admindagiao.xml" value="0.24230072463768115" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragment_admindahuy.xml" value="0.24230072463768115" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragment_admindanggiao.xml" value="0.24230072463768115" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragment_dang_ky.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragment_dang_nhap.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragment_sanpham.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragment_thuonghieu.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragmentadmin.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragmentchoxacnhan.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragmentchuacodonhang.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragmentchuacodonmua.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragmentchuadangnhap.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragmentdadangnhap.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragmentdagiao.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragmentdahuy.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragmentdanggiao.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/fragmentlistchoxacnhan.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/giohang.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/giohangthongtin.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/giohangtinhtien.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/home.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/item_capnhatsanpham.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/item_capnhatthuonghieu.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/item_chitietdonhang.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/item_giohang.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/item_sanpham.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/item_search.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/itemdonmua.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/itemlstc.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/layout_dialog_huydh.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/layout_dialog_huydh_admin.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/layout_matkhaumoi.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/layout_quenmk.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/lichsutruycap.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/listfavorite.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/me.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/noconnection.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/qldh.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/qlnd.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/recycler_qldh.xml" value="0.4" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/row_item.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/sanpham.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/searchview.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/thongke.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/thongtinlienhe.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/tiendogiaohang.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/user.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/useritem.xml" value="0.4" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/wellcomeapp.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/circle.xml" value="0.146875" />
+        <entry key="app/src/main/res/drawable/home_icon.xml" value="0.146875" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.146875" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.146875" />
+        <entry key="app/src/main/res/drawable/person_icon.xml" value="0.146875" />
+        <entry key="app/src/main/res/drawable/search_bar_drawable.xml" value="0.146875" />
+        <entry key="app/src/main/res/drawable/shadow_shape.xml" value="0.146875" />
+        <entry key="app/src/main/res/drawable/smallcircle.xml" value="0.146875" />
+        <entry key="app/src/main/res/drawable/smallcircle2.xml" value="0.146875" />
+        <entry key="app/src/main/res/layout/activity_capnhapthuonghieu.xml" value="0.543144372333909" />
+        <entry key="app/src/main/res/layout/giohangthongtin.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/layout/layout_quenmk.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/layout/thongke.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/layout/thongtinlienhe.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/layout/useritem.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/layout/wellcomeapp.xml" value="0.14447463768115942" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

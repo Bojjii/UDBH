@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/aliceblue"
+    tools:context=".FragmentDangNhap"
+    android:padding="30dp">
+    <!-- TODO: Update blank fragment layout -->
+    <EditText
+        android:id="@+id/edtsodienthoai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:hint="Số Điện Thoại"
+        android:inputType="number"
+        android:maxLength="11"
+        android:textColor="@color/black" />
+
+    <EditText
+        android:id="@+id/edtmatkhau"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtsodienthoai"
+        android:layout_alignEnd="@+id/imbPassword"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="38dp"
+        android:hint="Mật Khẩu"
+        android:inputType="textPassword"
+        android:maxLength="16"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/txtquenmk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtmatkhau"
+        android:layout_alignParentEnd="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="50dp"
+        android:text="Quên mật khẩu ?"
+        android:textColor="#50C2C9"
+        android:textSize="17sp"
+        android:textStyle="italic" />
+
+    <ImageButton
+        android:id="@+id/imbPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtsodienthoai"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="23dp"
+        android:background="@color/aliceblue"
+        android:src="@drawable/hide" />
+
+    <Button
+        android:id="@+id/btnDangNhap"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="40dp"
+        android:backgroundTint="#50C2C9"
+        android:text="Đăng Nhập"
+        android:textColor="@color/white" />
+
+</RelativeLayout>
